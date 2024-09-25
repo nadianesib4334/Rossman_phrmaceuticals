@@ -1,1 +1,2 @@
 # phrmaceuticals
+This project aims to find how the sales of the pharmacy is affected due to many reasons like holiday, other stores opening E.T.C so that it will plan or predict the next 6 weeks sales according to the records of the past and take measurements accordingly.
