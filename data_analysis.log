@@ -1,0 +1,127 @@
+2024-10-01 09:45:19,164 - INFO - Logger is set up.
+2024-10-01 09:50:16,978 - INFO - Starting the data analysis process...
+2024-10-01 09:50:16,980 - INFO - Loading data from sales_data.csv
+2024-10-01 09:50:16,992 - ERROR - Error loading data: [Errno 2] No such file or directory: 'sales_data.csv'
+2024-10-01 09:59:21,303 - INFO - Starting the data analysis process...
+2024-10-01 09:59:21,304 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/store.csv
+2024-10-01 09:59:21,319 - INFO - Data loaded successfully with shape (1115, 10)
+2024-10-01 09:59:21,319 - INFO - Starting data preprocessing...
+2024-10-01 10:05:29,477 - INFO - Starting the data analysis process...
+2024-10-01 10:05:29,479 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/train.csv
+2024-10-01 10:05:29,789 - INFO - Data loaded successfully with shape (1017209, 9)
+2024-10-01 10:05:29,789 - INFO - Starting data preprocessing...
+2024-10-01 10:05:29,837 - INFO - Data preprocessing completed. Shape changed from (1017209, 9) to (1017209, 9)
+2024-10-01 10:05:29,837 - INFO - Analyzing sales data...
+2024-10-01 10:05:30,001 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-01 10:05:30,005 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-01 10:05:30,115 - INFO - Sales analysis plot saved as average_sales_by_day.png
+2024-10-01 10:05:30,115 - INFO - Sales analysis completed.
+2024-10-01 10:05:30,115 - INFO - Sales Summary:
+   DayOfWeek        Sales
+0     Friday  6723.274305
+1     Monday  7809.044510
+2   Saturday  5847.562599
+3     Sunday   204.183189
+4   Thursday  6247.575913
+5    Tuesday  7005.244467
+6  Wednesday  6555.884138
+2024-10-01 10:05:30,118 - INFO - Analyzing competition distance impact on sales...
+2024-10-01 10:06:14,305 - INFO - Starting the data analysis process...
+2024-10-01 10:06:14,306 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/train.csv
+2024-10-01 10:06:14,619 - INFO - Data loaded successfully with shape (1017209, 9)
+2024-10-01 10:06:14,619 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/store.csv
+2024-10-01 10:06:14,622 - INFO - Data loaded successfully with shape (1115, 10)
+2024-10-01 10:06:14,625 - INFO - Starting data preprocessing...
+2024-10-01 10:06:26,912 - INFO - Starting the data analysis process...
+2024-10-01 10:06:26,913 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/train.csv
+2024-10-01 10:06:27,206 - INFO - Data loaded successfully with shape (1017209, 9)
+2024-10-01 10:06:27,206 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/store.csv
+2024-10-01 10:06:27,209 - INFO - Data loaded successfully with shape (1115, 10)
+2024-10-01 10:06:27,209 - INFO - Starting data preprocessing...
+2024-10-01 10:06:27,250 - INFO - Data preprocessing completed. Shape changed from (1017209, 9) to (1017209, 9)
+2024-10-01 10:06:27,250 - INFO - Analyzing sales data...
+2024-10-01 10:06:27,383 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-01 10:06:27,386 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-01 10:06:27,444 - INFO - Sales analysis plot saved as average_sales_by_day.png
+2024-10-01 10:06:27,444 - INFO - Sales analysis completed.
+2024-10-01 10:06:27,444 - INFO - Sales Summary:
+   DayOfWeek        Sales
+0     Friday  6723.274305
+1     Monday  7809.044510
+2   Saturday  5847.562599
+3     Sunday   204.183189
+4   Thursday  6247.575913
+5    Tuesday  7005.244467
+6  Wednesday  6555.884138
+2024-10-01 10:06:27,444 - INFO - Analyzing competition distance impact on sales...
+2024-10-01 10:06:52,886 - INFO - Starting the data analysis process...
+2024-10-01 10:06:52,887 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/train.csv
+2024-10-01 10:06:53,181 - INFO - Data loaded successfully with shape (1017209, 9)
+2024-10-01 10:06:53,182 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/store.csv
+2024-10-01 10:06:53,184 - INFO - Data loaded successfully with shape (1115, 10)
+2024-10-01 10:06:53,185 - INFO - Starting data preprocessing...
+2024-10-01 10:06:53,226 - INFO - Data preprocessing completed. Shape changed from (1017209, 9) to (1017209, 9)
+2024-10-01 10:06:53,226 - INFO - Analyzing sales data...
+2024-10-01 10:06:53,362 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-01 10:06:53,365 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-01 10:06:53,421 - INFO - Sales analysis plot saved as average_sales_by_day.png
+2024-10-01 10:06:53,421 - INFO - Sales analysis completed.
+2024-10-01 10:06:53,421 - INFO - Sales Summary:
+   DayOfWeek        Sales
+0     Friday  6723.274305
+1     Monday  7809.044510
+2   Saturday  5847.562599
+3     Sunday   204.183189
+4   Thursday  6247.575913
+5    Tuesday  7005.244467
+6  Wednesday  6555.884138
+2024-10-01 10:06:53,421 - INFO - Analyzing competition distance impact on sales...
+2024-10-01 10:09:50,718 - INFO - Starting the data analysis process...
+2024-10-01 10:09:50,719 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/train.csv
+2024-10-01 10:09:51,017 - INFO - Data loaded successfully with shape (1017209, 9)
+2024-10-01 10:09:51,018 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/store.csv
+2024-10-01 10:09:51,020 - INFO - Data loaded successfully with shape (1115, 10)
+2024-10-01 10:21:23,247 - INFO - Starting the data analysis process...
+2024-10-01 10:21:23,248 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/train.csv
+2024-10-01 10:21:23,557 - INFO - Data loaded successfully with shape (1017209, 9)
+2024-10-01 10:21:23,557 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/store.csv
+2024-10-01 10:21:23,559 - INFO - Data loaded successfully with shape (1115, 10)
+2024-10-01 10:21:23,559 - INFO - Starting data preprocessing...
+2024-10-01 10:21:23,607 - INFO - Data preprocessing completed. Shape changed from (1017209, 9) to (1017209, 9)
+2024-10-01 10:21:23,607 - INFO - Analyzing sales data...
+2024-10-01 10:21:23,752 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-01 10:21:23,757 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-01 10:21:23,823 - INFO - Sales analysis plot saved as average_sales_by_day.png
+2024-10-01 10:21:23,823 - INFO - Sales analysis completed.
+2024-10-01 10:21:23,823 - INFO - Sales Summary:
+   DayOfWeek        Sales
+0     Friday  6723.274305
+1     Monday  7809.044510
+2   Saturday  5847.562599
+3     Sunday   204.183189
+4   Thursday  6247.575913
+5    Tuesday  7005.244467
+6  Wednesday  6555.884138
+2024-10-01 10:21:23,824 - INFO - Analyzing competition distance impact on sales...
+2024-10-01 10:23:11,036 - INFO - Starting the data analysis process...
+2024-10-01 10:23:11,038 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/train.csv
+2024-10-01 10:23:11,377 - INFO - Data loaded successfully with shape (1017209, 9)
+2024-10-01 10:23:11,377 - INFO - Loading data from /Users/nadianesib/Desktop/rossmann-store-sales/store.csv
+2024-10-01 10:23:11,380 - INFO - Data loaded successfully with shape (1115, 10)
+2024-10-01 10:23:11,380 - INFO - Starting data preprocessing...
+2024-10-01 10:23:11,422 - INFO - Data preprocessing completed. Shape changed from (1017209, 9) to (1017209, 9)
+2024-10-01 10:23:11,422 - INFO - Analyzing sales data...
+2024-10-01 10:23:11,557 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-01 10:23:11,562 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-01 10:23:11,624 - INFO - Sales analysis plot saved as average_sales_by_day.png
+2024-10-01 10:23:11,624 - INFO - Sales analysis completed.
+2024-10-01 10:23:11,624 - INFO - Sales Summary:
+   DayOfWeek        Sales
+0     Friday  6723.274305
+1     Monday  7809.044510
+2   Saturday  5847.562599
+3     Sunday   204.183189
+4   Thursday  6247.575913
+5    Tuesday  7005.244467
+6  Wednesday  6555.884138
+2024-10-01 10:23:11,625 - INFO - Analyzing competition distance impact on sales...
